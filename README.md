@@ -1,4 +1,4 @@
-# palindromo
+# Anagrama
 
 A new Flutter project.
 
